@@ -6,7 +6,8 @@ This assignment introduces you to the foundational principles of CSS—how to st
 
 ## Objective
 
-Your goal is to create a visually styled web page using only CSS. You will apply basic styling rules to text, backgrounds, and layout elements, and demonstrate an understanding of how the CSS Box Model affects spacing and sizing on the page.
+Your goal is to create 
+a visually styled web page using only CSS. You will apply basic styling rules to text, backgrounds, and layout elements, and demonstrate an understanding of how the CSS Box Model affects spacing and sizing on the page.
 
 ## What You'll Practice
 
